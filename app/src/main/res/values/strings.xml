@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">06As1</string>
+
+    <string-array name="myOperation">
+        <item>Add</item>
+        <item>Sub</item>
+        <item>Mul</item>
+        <item>Dev</item>
+    </string-array>
+
+</resources>
